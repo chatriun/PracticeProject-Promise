@@ -9,30 +9,6 @@ const watchMovie = "4D" // "IMAX" or "4D"
 
 const isBreakfast = true // true or false
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 // เอาไปซ่อนให้ไกลสายตาพี่เอก
 if (isGoOut){
   console.log(`morning :)`)
@@ -63,7 +39,7 @@ planBySaly
             if(watchMovie === "IMAX"){
               ticketDetail = `
               --------------------------------------------
-              | ⁺˖   ෴            Godzilla x Kong:     |                         
+              | ⁺˖   ෴            Godzilla x Kong:     |
               | ╭∩╮（•ㅅ•）╭∩╮    The New Empire (2024)   |
               |      ‿‿  ⸝⸝      > IMAX 3D    > 12:00   |
               --------------------------------------------
@@ -71,7 +47,7 @@ planBySaly
             } else if (watchMovie === "4D"){
               ticketDetail = `
               --------------------------------------------
-              | ⁺˖   ෴            Godzilla x Kong:     |                         
+              | ⁺˖   ෴            Godzilla x Kong:     |
               | ╭∩╮（•ㅅ•）╭∩╮    The New Empire (2024)   |
               |      ‿‿  ⸝⸝      > 4D    > 13:30        |
               --------------------------------------------
@@ -82,7 +58,7 @@ planBySaly
               |     ◼︎◼︎     ◼︎◼︎◼︎◼︎     ◼︎◼︎    |
               |    ◼︎ ◼︎     ◼︎   ◼︎    ◼︎ ◼︎    |
               |   ◼︎  ◼︎     ◼︎   ◼︎   ◼︎  ◼︎    |
-              |  ◼︎◼︎◼︎◼︎◼︎    ◼︎   ◼︎  ◼︎◼︎◼︎◼︎◼︎  |        
+              |  ◼︎◼︎◼︎◼︎◼︎    ◼︎   ◼︎  ◼︎◼︎◼︎◼︎◼︎  |
               |       ◼︎     ◼︎◼︎◼︎◼︎      ◼︎    |
               ---------------------------------
               `
